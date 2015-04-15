@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<!-- Komodo Preferences File - DO NOT EDIT -->
+
+<preference-set id="global">
+  <string id="C++HelpCommand">%25(browser) http://www.google.com/search?q=site%253Ahttp%253A%252F%252Fwww.cppreference.com%252F+%25W</string>
+  <boolean id="activestate_notification_messages_enabled">1</boolean>
+  <string id="analyticsLastVersion">9.0.1</string>
+  <boolean id="analytics_enabled">1</boolean>
+  <string id="analytics_ga_uid">def0d339-32db-4dd2-932f-5ed0c91b6e5b</string>
+  <boolean id="cleanLineEnds">1</boolean>
+  <boolean id="cleanLineEnds_ChangedLinesOnly">1</boolean>
+  <boolean id="cleanLineEnds_CleanCurrentLine">1</boolean>
+  <string id="cursorColor">#282a2e</string>
+  <string id="defaultEncoding">utf-8</string>
+  <string id="defaultSelectedPref">editSaveItem</string>
+  <string id="defaultSelectedSubPref">syntaxCheckingItem</string>
+  <string id="editFoldStyle">none</string>
+  <string id="editor-scheme">tomorrow</string>
+<preference-set id="filepickers.defaultDirs">
+  <string id="listbox.pathEditor.add">/home/vitalii/projects/gcontext</string>
+</preference-set>
+  <string id="filtered-prefs-open-nodes-by-id">{"editorItem":true}</string>
+  <long id="find-caseSensitivity">1</long>
+  <boolean id="find-confirmReplacementsInFiles">1</boolean>
+  <string id="find-cwd">~</string>
+  <boolean id="find-displayInFindResults2">0</boolean>
+<ordered-preference id="find-excludeFiletypes">
+  <string>.svn</string>
+  <string>CVS</string>
+  <string>.git</string>
+  <string>.hg</string>
+  <string>.bzr</string>
+  <string>*~</string>
+</ordered-preference>
+<ordered-preference id="find-excludeFiletypesMru">
+  <string>.svn:CVS:.git:.hg:.bzr:*~</string>
+</ordered-preference>
+<ordered-preference id="find-folders">
+  <string>/home/vitalii/.komodoedit</string>
+</ordered-preference>
+<ordered-preference id="find-foldersMru">
+  <string>/home/vitalii/projects/gcontext</string>
+</ordered-preference>
+<ordered-preference id="find-includeFiletypes">
+</ordered-preference>
+  <string id="find-lastInFilesContext">files</string>
+  <boolean id="find-matchWord">0</boolean>
+  <boolean id="find-multiline">0</boolean>
+<ordered-preference id="find-patternMru">
+  <string>method</string>
+</ordered-preference>
+  <long id="find-patternType">0</long>
+  <long id="find-preferredContextType">0</long>
+  <boolean id="find-searchBackward">0</boolean>
+  <boolean id="find-searchInSubfolders">1</boolean>
+  <boolean id="find-showReplaceAllResults">1</boolean>
+  <boolean id="haveInstalledSampleToolbox-Komodo9.0.0">1</boolean>
+  <boolean id="haveInstalledSampleToolbox-Komodo9.0.1">1</boolean>
+  <string id="iconCacheVersion">linux-x86_6415738</string>
+  <string id="iconset-base-color">#C8C8C8</string>
+  <string id="iconset-base-defs">-1</string>
+  <string id="iconset-selected-color">#6C92CC</string>
+  <string id="iconset-selected-defs">-1</string>
+  <string id="iconset-toolbar-color">-1</string>
+  <string id="iconset-toolbar-defs">-1</string>
+  <string id="iconset-widgets-color">-1</string>
+  <string id="iconset-widgets-defs">-1</string>
+  <string id="jshint_linter_chooser">default</string>
+  <string id="jslint_linter_chooser">default</string>
+  <string id="keybindings">Default
+Emacs
+Vi
+_vi
+</string>
+  <string id="koSkin_custom_icons">chrome://iconset-light/content/manifest/chrome.manifest</string>
+  <string id="koSkin_custom_skin">chrome://abyss-skin/content/manifest/chrome.manifest</string>
+  <boolean id="koSkin_use_custom_scrollbars">1</boolean>
+  <boolean id="koSkin_use_gtk_detection">0</boolean>
+  <boolean id="komodo_normal_shutdown">0</boolean>
+  <string id="lessCachePlatVersion">linux-x86_6415738</string>
+  <string id="lessDefaultInterpreter">None</string>
+<ordered-preference id="mruFileList">
+  <string>file:///home/vitalii/.komodoedit/9.0/prefs.xmlc</string>
+  <string>file:///home/vitalii/.komodoedit/9.0/toolbox.sqlite</string>
+</ordered-preference>
+  <long id="mruFileSize">30</long>
+<ordered-preference id="mruMenuItemList">
+  <string>menu_preferences</string>
+  <string>menu_helpCheckConfig</string>
+  <string>about_menu</string>
+  <string>menu_helpUpdates</string>
+</ordered-preference>
+  <long id="mruProjectSize">15</long>
+  <boolean id="native_mozicons_available">1</boolean>
+  <boolean id="openfiles_show_tab_bar">0</boolean>
+<preference-set id="places">
+  <string id="1">file:///home/vitalii/projects/gcontext</string>
+<preference-set id="current_filter_by_uri">
+<preference-set id="file:///home/vitalii">
+  <string id="timestamp">1429129812211</string>
+  <string id="viewName">Default</string>
+</preference-set>
+<preference-set id="file:///home/vitalii/Downloads/pytest-dev-pytest-45921b2e6400/_pytest">
+  <string id="timestamp">1428233410653</string>
+  <string id="viewName">Default</string>
+</preference-set>
+<preference-set id="file:///home/vitalii/projects/gcontext">
+  <string id="timestamp">1429134492561</string>
+  <string id="viewName">Default</string>
+</preference-set>
+</preference-set>
+<preference-set id="current_project_filter_by_uri">
+</preference-set>
+  <boolean id="dblClickRebases">0</boolean>
+<preference-set id="filters">
+<preference-set id="Current Project">
+  <boolean id="builtin">1</boolean>
+  <string id="exclude_matches"></string>
+  <string id="include_matches"></string>
+  <boolean id="readonly">0</boolean>
+  <long id="version">3</long>
+</preference-set>
+<preference-set id="Default">
+  <boolean id="builtin">1</boolean>
+  <string id="exclude_matches">*~;#*;CVS;*.bak;*.pyo;*.pyc;.svn;.git;.hg;.bzr;.DS_Store;.komodotools;.tools;__pycache__;hg-checklink-*;hg-checkexec-*</string>
+  <string id="include_matches"></string>
+  <boolean id="readonly">0</boolean>
+  <long id="version">3</long>
+</preference-set>
+<preference-set id="View All">
+  <boolean id="builtin">1</boolean>
+  <string id="exclude_matches"></string>
+  <string id="include_matches"></string>
+  <boolean id="readonly">1</boolean>
+  <long id="version">3</long>
+</preference-set>
+</preference-set>
+<ordered-preference id="history_forwardPlaces">
+</ordered-preference>
+<ordered-preference id="history_prevPlaces">
+  <string>file:///home/vitalii</string>
+</ordered-preference>
+  <string id="lastHomePlace">file:///home/vitalii/projects/gcontext</string>
+  <string id="lastLocalDirectoryChoice">file:///home/vitalii/projects/gcontext</string>
+  <string id="places-open-nodes-v2">{"file:///home/vitalii": 1429129811.957898, "file:///home/vitalii/Downloads/pytest-dev-pytest-45921b2e6400/_pytest": 1428233410.599487, "file:///home/vitalii/projects/gcontext": 1429134156.769086}</string>
+  <long id="project_sort_direction">0</long>
+  <boolean id="showProjectPath">0</boolean>
+  <boolean id="showProjectPathExtension">0</boolean>
+  <boolean id="show_fullPath_tooltip">1</boolean>
+  <string id="sortDirection">natural</string>
+  <boolean id="trackCurrentTab">0</boolean>
+</preference-set>
+  <long id="places-open-nodes-size">100</long>
+  <boolean id="places.multiple_project_view">0</boolean>
+  <long id="prefs.fontsColorsLanguages.colors.extraColors">0</long>
+  <long id="prefs.fontsColorsLanguages.common.elementList">0</long>
+  <long id="prefs.fontsColorsLanguages.indicators.menulist">0</long>
+  <long id="prefs.fontsColorsLanguages.langSpecific.elementTypeIndex">0</long>
+  <string id="prefs.fontsColorsLanguages.langSpecific.lang">Python</string>
+  <long id="prefs.fontsColorsLanguages.whichTab">0</long>
+  <boolean id="prefs_show_advanced">1</boolean>
+  <string id="runtime_manifests">["chrome://abyss-skin/content/manifest/chrome.manifest","chrome://iconset-light/content/manifest/chrome.manifest"]</string>
+  <string id="sassDefaultInterpreter">None</string>
+  <string id="scssDefaultInterpreter">None</string>
+  <boolean id="show-getstarted-9.0">0</boolean>
+  <boolean id="startupFullScreen">0</boolean>
+  <boolean id="startupMaximized">1</boolean>
+  <long id="toolbox-open-nodes-size">100</long>
+<preference-set id="toolbox2">
+  <long id="currentIndex">-1</long>
+  <long id="firstVisibleRow">0</long>
+  <string id="open-nodes">{"/home/vitalii/.komodoedit/9.0/tools": 1429134156.196496}</string>
+  <string id="sortDirection">natural</string>
+</preference-set>
+  <string id="ui.tabs.sidepanes.bottom.layout">horizontal</string>
+  <string id="ui.tabs.sidepanes.left.layout">icons</string>
+  <string id="ui.tabs.sidepanes.right.layout">icons</string>
+  <string id="ui.tabs.sidepanes.state">{"widgets":{},"panes":{"workspace_bottom_area":{"collapsed":true,"children":[[{"id":"runoutput-desc-tabpanel"}],[{"id":"findresults1_tabpanel"}],[{"id":"findresults2_tabpanel"}],[{"id":"notifications-widget"}],[{"id":"klint_tabpanel"}]],"selectedTab":"notifications-widget"},"workspace_right_area":{"collapsed":true,"children":[[{"id":"toolbox2viewbox"}]],"selectedTab":"toolbox2viewbox"},"workspace_left_area":{"collapsed":true,"children":[[{"id":"placesViewbox"}],[{"id":"openfilesViewbox"}]],"selectedTab":"placesViewbox"}}}</string>
+  <long id="version">18</long>
+<preference-set id="windowWorkspace">
+<preference-set id="1">
+<preference-set id="coordinates">
+  <long id="outerHeight">700</long>
+  <long id="outerWidth">1150</long>
+  <long id="screenX">65</long>
+  <long id="screenY">24</long>
+  <long id="windowState">1</long>
+</preference-set>
+  <boolean id="hasFocus">1</boolean>
+<preference-set id="history_rctabs">
+  <string id="rctabs_list">[{"tabGroup":"view-1","viewType":"editor","uri":"file:///home/vitalii/projects/gcontext/gcontext/incubate/txt.py","tabIndex":2},{"tabGroup":"view-1","viewType":"editor","uri":"file:///home/vitalii/.komodoedit/9.0/toolbox.sqlite","tabIndex":6},{"tabGroup":"view-1","viewType":"editor","uri":"file:///home/vitalii/.komodoedit/9.0/prefs.xmlc","tabIndex":6}]</string>
+</preference-set>
+<preference-set id="opened_projects_v7">
+  <string id="mpv_projects">[]</string>
+  <string id="spv_projects">[]</string>
+</preference-set>
+  <boolean id="restoreOnRestart">1</boolean>
+  <long id="timestamp">1429139291</long>
+<preference-set id="topview">
+<ordered-preference id="childState">
+<preference-set>
+  <long id="current_view_index">5</long>
+<ordered-preference id="view_prefs">
+<preference-set>
+  <string id="URI">file:///home/vitalii/projects/gcontext/tests/test_iter.py</string>
+  <string id="viewtype">editor</string>
+</preference-set>
+<preference-set>
+  <string id="URI">file:///home/vitalii/projects/gcontext/gcontext/ipychain.py</string>
+  <string id="viewtype">editor</string>
+</preference-set>
+<preference-set>
+  <string id="URI">file:///home/vitalii/projects/gcontext/gcontext/incubate/.txt</string>
+  <string id="viewtype">editor</string>
+</preference-set>
+<preference-set>
+  <string id="URI">file:///home/vitalii/projects/gcontext/gcontext/util.py</string>
+  <string id="viewtype">editor</string>
+</preference-set>
+<preference-set>
+  <string id="URI">file:///home/vitalii/projects/gcontext/gcontext/todo.txt</string>
+  <string id="viewtype">editor</string>
+</preference-set>
+<preference-set>
+  <string id="URI">file:///home/vitalii/.komodoedit/9.0/prefs.xml</string>
+  <string id="viewtype">editor</string>
+</preference-set>
+</ordered-preference>
+</preference-set>
+</ordered-preference>
+  <string id="orientation">vertical</string>
+<ordered-preference id="viewHistoryState">
+  <string>file:///home/vitalii/.komodoedit/9.0/prefs.xml?parentId=view-1</string>
+  <string>file:///home/vitalii/projects/gcontext/gcontext/incubate/.txt?parentId=view-1</string>
+  <string>file:///home/vitalii/projects/gcontext/gcontext/todo.txt?parentId=view-1</string>
+  <string>file:///home/vitalii/projects/gcontext/gcontext/util.py?parentId=view-1</string>
+  <string>file:///home/vitalii/projects/gcontext/gcontext/ipychain.py?parentId=view-1</string>
+  <string>file:///home/vitalii/projects/gcontext/tests/test_iter.py?parentId=view-1</string>
+</ordered-preference>
+</preference-set>
+  <long id="windowNum">1</long>
+</preference-set>
+</preference-set>
+</preference-set>
